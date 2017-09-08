@@ -1,10 +1,12 @@
 ## Taller 2
 
-Integrantes: Diego Mellis
-             Esteban Alarcón
-             Victor Maripangui
-             Javier Cifuentes
-             Matias Paredes
+Integrantes: 
+
+Diego Mellis
+Esteban Alarcón
+Victor Maripangui
+Javier Cifuentes
+Matias Paredes
              
 Curso: Taller de base de datos
 
