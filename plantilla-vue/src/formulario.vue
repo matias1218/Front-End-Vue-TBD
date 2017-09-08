@@ -4,12 +4,14 @@
 
     <div>
       <label>Nombre del actor:</label>
-      <input type="text" v-model="actor.firstName">
+      <input type="text" name="firstName" v-model="actor.firstName" 
+      placeholder="Ej: Esteban" required>
     </div>
 
     <div>
       <label>Apellido del actor:</label>
-      <input type="text" v-model="actor.lastName">
+      <input type="text" v-model="actor.lastName"
+      placeholder="Ej: Márquez" required>
     </div>
   
     <div>
@@ -43,7 +45,7 @@ export default {
         alert('Se ha agregado exitosamente el actor ' + user.firstName + ' ' + user.lastName);
       }, response=>{
         // caso fallido
-        alert('error en agregacion de actor');
+        alert('Error con el servidor, vuelva a intentarlo más tarde');
       })
     }
   }
