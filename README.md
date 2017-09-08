@@ -1,9 +1,13 @@
-# Plantilla para Vue
-## Taller de Base de Datos
+## Taller 2
 
-Incluye:
-* ejemplo básico de [Webpack](https://webpack.github.io/)
-* plantilla para [Vue.js](https://vuejs.org/)
+Integrantes: Diego Mellis
+             Esteban Alarcón
+             Victor Maripangui
+             Javier Cifuentes
+             Matias Paredes
+             
+Curso: Taller de base de datos
+
 
 ### Requisitos previos
  [Node js](https://nodejs.org/es/download/)
